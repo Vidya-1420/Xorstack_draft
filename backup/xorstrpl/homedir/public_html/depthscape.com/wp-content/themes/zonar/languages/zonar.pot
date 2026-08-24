@@ -1,0 +1,515 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-09 22:03+0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: 404.php:9
+msgid "404"
+msgstr ""
+
+#: 404.php:10
+msgid "We are sorry, but the Page you were looking for, could not be found."
+msgstr ""
+
+#: 404.php:11
+msgid "Back to Home Page "
+msgstr ""
+
+#: archive.php:5 archive.php:37 category.php:5 category.php:37 index.php:5
+#: index.php:35 tag.php:5 tag.php:37 includes/zonar-options.php:891
+msgid "Category"
+msgstr ""
+
+#: archive.php:5 archive.php:40 category.php:5 category.php:40 index.php:5
+#: index.php:38 tag.php:5 tag.php:40
+msgid "Tag"
+msgstr ""
+
+#: archive.php:5 archive.php:43 category.php:5 category.php:43 index.php:5
+#: index.php:41 tag.php:5 tag.php:43
+msgid "Archive"
+msgstr ""
+
+#: archive.php:5 archive.php:46 category.php:5 category.php:46 index.php:5
+#: index.php:44 tag.php:5 tag.php:46 template-parts/blog-details/block.php:116
+msgid "My Blog"
+msgstr ""
+
+#: archive.php:89 category.php:89 index.php:87 search.php:81 tag.php:89
+#: template-parts/blog/blog-left.php:78 template-parts/blog/blog-right.php:78
+#: template-parts/blog/full.php:200
+msgid "Read more"
+msgstr ""
+
+#: comments.php:39
+#, php-format
+msgctxt "comments title"
+msgid "%1$s "
+msgid_plural "%1$s "
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:66 includes/zonar-options.php:955
+msgid "Comments are closed."
+msgstr ""
+
+#: contact-page.php:21
+msgid "01. Mail"
+msgstr ""
+
+#: contact-page.php:24
+msgid "02. Adress"
+msgstr ""
+
+#: contact-page.php:27
+msgid "03. Phone"
+msgstr ""
+
+#: contact-page.php:33
+msgid "Say Hello"
+msgstr ""
+
+#: contact-page.php:59
+msgid "My Location in New York."
+msgstr ""
+
+#: contact-page.php:63
+msgid "Find on"
+msgstr ""
+
+#: functions.php:144
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: functions.php:158
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:233
+msgid "Search for:"
+msgstr ""
+
+#: functions.php:308
+msgid "Send"
+msgstr ""
+
+#: header.php:16
+msgid "Load"
+msgstr ""
+
+#: header.php:16
+msgid "ing"
+msgstr ""
+
+#: header.php:47
+msgid "Menu"
+msgstr ""
+
+#: header.php:55
+msgid "01. Call "
+msgstr ""
+
+#: header.php:58
+msgid "02. Write "
+msgstr ""
+
+#: header.php:70
+msgid "Get in touch"
+msgstr ""
+
+#: header.php:143
+msgid "Share"
+msgstr ""
+
+#: page.php:34 template-parts/page/default.php:82
+#: template-parts/portfolio/column-grid.php:19
+#: template-parts/portfolio/fullscreen-grid.php:16
+#: template-parts/portfolio/horizonatal.php:16
+msgid "FIlter "
+msgstr ""
+
+#: page.php:105 page.php:149 page.php:176 includes/zonar-options.php:884
+#: template-parts/blog/full.php:75 template-parts/blog/full.php:102
+#: template-parts/blog-details/block.php:126
+#: template-parts/portfolio/column-grid.php:92
+#: template-parts/portfolio/column-grid.php:122
+#: template-parts/portfolio-details/column.php:135
+#: template-parts/portfolio-details/column.php:169
+#: woocommerce/archive-product.php:101
+#: woocommerce/content-single-product.php:158
+msgid "Scroll Down"
+msgstr ""
+
+#: search.php:5 search.php:36 includes/zonar-options.php:1045
+#: template-parts/blog/full.php:128 woocommerce/archive-product.php:117
+msgid "Search"
+msgstr ""
+
+#: search.php:38
+#, php-format
+msgid "Results for %s"
+msgstr ""
+
+#: search.php:97 includes/zonar-options.php:1031
+msgid "No Item Found"
+msgstr ""
+
+#: search.php:99 includes/zonar-options.php:1038
+msgid "Please Search Again."
+msgstr ""
+
+#: template-parts/blog/full.php:137
+msgid "Tags"
+msgstr ""
+
+
+#: includes/zonar-options.php:1012 template-parts/blog-details/block.php:34
+#: template-parts/blog-details/block.php:64
+#: template-parts/blog-details/blog-left.php:134
+#: template-parts/blog-details/blog-left.php:164
+#: template-parts/blog-details/blog-right.php:134
+#: template-parts/blog-details/blog-right.php:164
+#: template-parts/portfolio-details/carousel.php:137
+#: template-parts/portfolio-details/carousel.php:167
+#: template-parts/portfolio-details/column.php:32
+#: template-parts/portfolio-details/column.php:62
+#: template-parts/portfolio-details/slider.php:123
+#: template-parts/portfolio-details/slider.php:153
+#: template-parts/portfolio-details/video.php:151
+#: template-parts/portfolio-details/video.php:181
+msgid "Back To Home"
+msgstr ""
+
+#: includes/zonar-options.php:1013
+msgid "Portfolio & Post Pagination."
+msgstr ""
+
+#: includes/zonar-options.php:1018 template-parts/blog-details/block.php:32
+#: template-parts/blog-details/block.php:62
+#: template-parts/blog-details/blog-left.php:132
+#: template-parts/blog-details/blog-left.php:162
+#: template-parts/blog-details/blog-right.php:132
+#: template-parts/blog-details/blog-right.php:162
+msgid "Back To Blog"
+msgstr ""
+
+#: includes/zonar-options.php:1019
+msgid "Post Pagination."
+msgstr ""
+
+#: includes/zonar-options.php:1024
+#: template-parts/portfolio-details/carousel.php:135
+#: template-parts/portfolio-details/carousel.php:165
+#: template-parts/portfolio-details/column.php:30
+#: template-parts/portfolio-details/column.php:60
+#: template-parts/portfolio-details/slider.php:121
+#: template-parts/portfolio-details/slider.php:151
+#: template-parts/portfolio-details/video.php:149
+#: template-parts/portfolio-details/video.php:179
+msgid "Back To Portfolio"
+msgstr ""
+
+#: template-parts/blog/blog-left.php:32 template-parts/blog/blog-right.php:32
+#: template-parts/blog/full.php:118
+#: template-parts/portfolio/column-grid.php:196
+msgid "Lastes and future projects"
+msgstr ""
+
+#: template-parts/blog/full.php:152 woocommerce/archive-product.php:128
+msgid "Categories"
+msgstr ""
+
+#: template-parts/blog-details/block.php:26
+#: template-parts/blog-details/blog-left.php:126
+#: template-parts/blog-details/blog-right.php:126
+#: template-parts/portfolio-details/carousel.php:129
+#: template-parts/portfolio-details/column.php:24
+#: template-parts/portfolio-details/slider.php:115
+#: template-parts/portfolio-details/video.php:143
+#: woocommerce/content-single-product.php:45
+msgid "Prev - "
+msgstr ""
+
+#: template-parts/blog-details/block.php:56
+#: template-parts/blog-details/blog-left.php:156
+#: template-parts/blog-details/blog-right.php:156
+#: template-parts/portfolio-details/carousel.php:159
+#: template-parts/portfolio-details/column.php:54
+#: template-parts/portfolio-details/slider.php:145
+#: template-parts/portfolio-details/video.php:173
+#: woocommerce/content-single-product.php:75
+msgid "Next - "
+msgstr ""
+
+#: template-parts/blog-details/block.php:168
+#: template-parts/blog-details/blog-left.php:57
+#: template-parts/blog-details/blog-right.php:57
+msgid "Tags : "
+msgstr ""
+
+#: template-parts/page/top-header.php:27
+msgid "Scroll down  to discover"
+msgstr ""
+
+#: template-parts/portfolio/column-grid.php:14
+#: template-parts/portfolio/fullscreen-grid.php:11
+#: template-parts/portfolio/horizonatal.php:11
+msgid "All projects"
+msgstr ""
+
+#: template-parts/portfolio-details/carousel.php:24
+#: template-parts/portfolio-details/slider.php:20
+msgid "Thumbnails"
+msgstr ""
+
+#: template-parts/portfolio-details/carousel.php:27
+#: template-parts/portfolio-details/slider.php:23
+#: template-parts/portfolio-details/video.php:6
+msgid "Project Details"
+msgstr ""
+
+#: template-parts/portfolio-details/carousel.php:57
+msgid "Info"
+msgstr ""
+
+#: template-parts/portfolio-details/carousel.php:87
+#: template-parts/portfolio-details/carousel.php:91
+msgid "Next Project"
+msgstr ""
+
+#: template-parts/portfolio-details/video.php:107
+msgid "Project Gallery"
+msgstr ""
+
+#: woocommerce/content-single-product.php:58
+#: woocommerce/content-single-product.php:88
+#: woocommerce/cart/cart-empty.php:35
+msgid "Return to shop"
+msgstr ""
+
+#: woocommerce/content-single-product.php:144
+msgid "Our Shop"
+msgstr ""
+
+#: woocommerce/content-widget-product.php:37 woocommerce/cart/cart.php:34
+#: woocommerce/single-product/price.php:26
+msgid "Price"
+msgstr ""
+
+#: woocommerce/product-searchform.php:25
+msgid "Search products&hellip;"
+msgstr ""
+
+#: woocommerce/product-searchform.php:26
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:34
+#, php-format
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:37
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:65
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:77
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:77
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:79
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:82
+#: woocommerce/single-product-reviews.php:83
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:91
+msgid "Name"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:120
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:124
+msgid "Your rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:125
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:126
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:127
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:128
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:129
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:130
+msgid "Very poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:134
+msgid "Your review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:142
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/cart/cart.php:25
+msgid "Your Cart"
+msgstr ""
+
+#: woocommerce/cart/cart.php:25
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/cart/cart.php:32
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:35
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:36
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart.php:77
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:124
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:151
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:152
+msgid "Apply coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:157
+msgid "Update cart"
+msgstr ""
+
+#: woocommerce/loop/no-products-found.php:21
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: woocommerce/loop/orderby.php:25
+msgid "Shop order"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:28
+msgid "Showing the single result"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:31
+#, php-format
+msgid "Showing all %d result"
+msgid_plural "Showing all %d results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/loop/result-count.php:36
+#, php-format
+msgctxt "with first and last result"
+msgid "Showing %1$d&ndash;%2$d of %3$d result"
+msgid_plural "Showing <span>%1$d&ndash;%2$d</span> of %3$d results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/product-image.php:84
+msgid "Awaiting product image"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:38
+#, php-format
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/related.php:27
+msgid "Related products"
+msgstr ""
+
+#: woocommerce/single-product/short-description.php:35
+msgid "Categories : "
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variation.php:22
+msgid ""
+"Sorry, this product is unavailable. Please choose a different combination."
+msgstr ""
+
+#: woocommerce/single-product/tabs/additional-information.php:22
+msgid "Additional information"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:22
+msgid "Description"
+msgstr ""
+
+#: zonar-widget/widget/nastik-contact.php:8
+msgid "Nastik - Contact Widget"
+msgstr ""
+
+#: zonar-widget/widget/nastik-contact.php:73
+#: zonar-widget/widget/nastik-twitter-feed.php:61
+#: zonar-widget/widget/nastik-user.php:100
+#: zonar-widget/widget/zonar-category-widget.php:69
+#: zonar-widget/widget/zonar-recentpost.php:108
+msgid "Title:"
+msgstr ""
